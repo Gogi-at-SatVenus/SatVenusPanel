@@ -1,0 +1,11 @@
+<screen name="Menu" position="center,center" size="1920,1080" flags="wfNoBorder"  backgroundColor="#40000000">
+<ePixmap position="0,0" size="1920,1080" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/hrbet2fhd.png" alphatest="blend" transparent="1" />	
+<widget name="text" position="195,145" backgroundColorSelected="#40000000" size="836,803" foregroundColor="#faf0be" foregroundColorSelected="#cc0000" scrollbarMode="showNever" transparent="1" zPosition="10" />
+<eLabel text="Powered by satvenus.com" position="195,1020" size="1280,130" noWrap="1" transparent="1" font="Rale;36" foregroundColor="#ffffff" />		
+<widget source="global.CurrentTime" render="Label" position="435,60" size="500,35" foregroundColor="#ffffff" transparent="1" zPosition="1" font="Rale;33" halign="left">
+<convert type="ClockToText">Format:%A, %d.%m.%Y</convert>
+</widget>
+<widget source="global.CurrentTime" render="Label" position="700,60" size="300,35" foregroundColor="#ffffff" transparent="1" zPosition="1" font="Rale;33" halign="right">
+<convert type="ClockToText">Format:%-H:%M:%S</convert>
+</widget>
+</screen>

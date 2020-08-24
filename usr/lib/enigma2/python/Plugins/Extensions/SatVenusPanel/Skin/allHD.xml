@@ -1,0 +1,17 @@
+<screen name="Menu" position="center,center" size="1280,720" flags="wfNoBorder"  backgroundColor="#40000000">	
+    <ePixmap position="0,0" size="1280,720" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/hrbet2.png" alphatest="blend" transparent="1" />		
+
+
+	<widget name="text" position="130,110" backgroundColorSelected="#40000000" size="530,510" foregroundColor="#faf0be" foregroundColorSelected="#7fff00" scrollbarMode="showNever" transparent="1" zPosition="10" />
+	<widget name="ButtonRedtext" position="110,680" zPosition="10" size="160,45" font="Rale;28" transparent="1" foregroundColor="#cc0000" />
+	<widget name="key_red" position="260,680" zPosition="10" size="210,45" font="Rale;28" transparent="1" foregroundColor="#7fff00" />
+	<widget name="key_green" position="260,680" zPosition="10" size="210,45" font="Rale;28" transparent="1" foregroundColor="#7fff00" />
+	<widget name="info" position="120,640" zPosition="4" size="474,40" font="Rale;24" foregroundColor="#ffffff" transparent="1" />	
+	
+    <widget source="global.CurrentTime" render="Label" position="295,35" size="250,35" foregroundColor="#ffffff" transparent="1" zPosition="1" font="Rale;23" halign="left">
+      <convert type="ClockToText">Format:%A, %d.%m.%Y</convert>
+    </widget>
+    <widget source="global.CurrentTime" render="Label" position="500,35" size="150,35" foregroundColor="#ffffff" transparent="1" zPosition="1" font="Rale;23" halign="right">
+      <convert type="ClockToText">Format:%-H:%M:%S</convert>
+    </widget>
+</screen>

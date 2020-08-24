@@ -1,0 +1,40 @@
+<screen name="Menu" position="center,center" size="1280,720" flags="wfNoBorder"  backgroundColor="#40000000">	
+    <ePixmap position="0,0" size="1280,720" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/hrbet2.png" alphatest="blend" transparent="1" />	
+	<ePixmap alphatest="on" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/icons/musique.png" position="140,120" size="40,40" zPosition="-1"/>
+	<ePixmap alphatest="on" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/icons/musique.png" position="140,160" size="40,40" zPosition="-1"/>
+	<ePixmap alphatest="on" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/icons/musique.png" position="140,200" size="40,40" zPosition="-1"/>
+	<ePixmap alphatest="on" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/icons/musique.png" position="140,240" size="40,40" zPosition="-1"/>
+	<ePixmap alphatest="on" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/icons/musique.png" position="140,280" size="40,40" zPosition="-1"/>
+	<ePixmap alphatest="on" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/icons/musique.png" position="140,320" size="40,40" zPosition="-1"/>
+	<ePixmap alphatest="on" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/icons/musique.png" position="140,360" size="40,40" zPosition="-1"/>
+	<ePixmap alphatest="on" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/icons/musique.png" position="140,400" size="40,40" zPosition="-1"/>
+	<ePixmap alphatest="on" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/icons/musique.png" position="140,440" size="40,40" zPosition="-1"/>
+	<ePixmap alphatest="on" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/icons/musique.png" position="140,480" size="40,40" zPosition="-1"/>
+	<ePixmap alphatest="on" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/icons/musique.png" position="140,520" size="40,40" zPosition="-1"/>
+	<ePixmap alphatest="on" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/icons/musique.png" position="140,560" size="40,40" zPosition="-1"/>
+
+	<widget name="ButtonRedtext" position="110,680" zPosition="10" size="160,45" font="Rale;28" transparent="1" foregroundColor="#cc0000" />
+	<widget name="ButtonGreentext" position="260,680" zPosition="10" size="240,45" font="Rale;28" transparent="1" foregroundColor="#7fff00" />
+
+	<widget name="stationmenu" itemHeight="40" foregroundColor="#fff700" foregroundColorSelected="#cc0000" backgroundColorSelected="#40000000" position="180,110" size="510,480" transparent="1" scrollbarMode="showNever" zPosition="9"/>
+
+	<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/line.png" position="145,145" size="600,1" zPosition="10" alphatest="blend" /> 
+	<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/line.png" position="145,185" size="600,1" zPosition="10" alphatest="blend" />
+	<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/line.png" position="145,225" size="600,1" zPosition="10" alphatest="blend" />
+	<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/line.png" position="145,265" size="600,1" zPosition="10" alphatest="blend" /> 
+	<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/line.png" position="145,305" size="600,1" zPosition="10" alphatest="blend" />
+	<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/line.png" position="145,345" size="600,1" zPosition="10" alphatest="blend" />
+	<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/line.png" position="145,385" size="600,1" zPosition="10" alphatest="blend" /> 
+	<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/line.png" position="145,425" size="600,1" zPosition="10" alphatest="blend" />
+	<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/line.png" position="145,465" size="600,1" zPosition="10" alphatest="blend" />
+	<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/line.png" position="145,505" size="600,1" zPosition="10" alphatest="blend" /> 	
+	<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/line.png" position="145,545" size="600,1" zPosition="10" alphatest="blend" /> 
+	<ePixmap pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/line.png" position="145,585" size="600,1" zPosition="10" alphatest="blend" />	
+
+    <widget source="global.CurrentTime" render="Label" position="295,35" size="250,35" foregroundColor="#ffffff" transparent="1" zPosition="1" font="Rale;23" halign="left">
+      <convert type="ClockToText">Format:%A, %d.%m.%Y</convert>
+    </widget>
+    <widget source="global.CurrentTime" render="Label" position="500,35" size="150,35" foregroundColor="#ffffff" transparent="1" zPosition="1" font="Rale;23" halign="right">
+      <convert type="ClockToText">Format:%-H:%M:%S</convert>
+    </widget>
+</screen>

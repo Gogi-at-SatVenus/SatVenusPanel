@@ -1,0 +1,16 @@
+	<screen name="Menu" position="center,center" size="1280,720" flags="wfNoBorder"  backgroundColor="#40000000">	
+    <ePixmap position="0,0" size="1280,720" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/hrbet2.png" alphatest="blend" transparent="1" />
+    <widget font="Rale;22" name="text" position="140,180" foregroundColor="#fff700" backgroundColor="#40000000" size="595,510" />
+    <widget name="ErrorPixmap" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/input_error.png" position="140,110" size="53,53" transparent="1" alphatest="blend" zPosition="2"/>
+	<widget name="QuestionPixmap" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/input_question.png" position="140,110" size="53,53" transparent="1" alphatest="blend" zPosition="2"/>
+	<widget name="InfoPixmap" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/input_info.png" position="140,110" size="53,53" transparent="1" alphatest="blend" zPosition="2"/>
+    <widget name="list" position="140,350" itemHeight="32" scrollbarMode="showNever" size="100,720" transparent="1" zPosition="2" backgroundColorSelected="#40000000" foregroundColor="#fff700" foregroundColorSelected="#cc0000" />
+	<applet type="onLayoutFinish">	
+	</applet>
+    <widget source="global.CurrentTime" render="Label" position="295,35" size="250,35" foregroundColor="#ffffff" transparent="1" zPosition="1" font="Rale;23" halign="left">
+      <convert type="ClockToText">Format:%A, %d.%m.%Y</convert>
+    </widget>
+    <widget source="global.CurrentTime" render="Label" position="500,35" size="150,35" foregroundColor="#ffffff" transparent="1" zPosition="1" font="Rale;23" halign="right">
+      <convert type="ClockToText">Format:%-H:%M:%S</convert>
+    </widget>
+</screen>

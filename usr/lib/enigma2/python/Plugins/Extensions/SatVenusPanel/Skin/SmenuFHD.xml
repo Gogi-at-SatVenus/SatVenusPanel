@@ -1,0 +1,23 @@
+	<screen name="Menu" position="center,center" size="1920,1080" flags="wfNoBorder"  backgroundColor="#40000000">
+    <ePixmap position="0,0" size="1920,1080" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/hrbet2fhd.png" alphatest="blend" transparent="1" />	
+<widget source="list" render="Listbox" position="195,180" size="863,830" backgroundColorSelected="#40000000" foregroundColor="#faf0be" foregroundColorSelected="#7fff00" zPosition="10" scrollbarMode="showOnDemand" transparent="1" >
+<convert type="TemplatedMultiContent">
+{"template": [
+MultiContentEntryPixmapAlphaTest(pos = (0, 0), size = (0, 0), png = 0),
+MultiContentEntryText(pos = (30, 0), size = (720, 80), font=0, flags = RT_HALIGN_LEFT|RT_VALIGN_TOP, text = 1),
+],
+"fonts": [gFont("Sansation-Bold", 52)],
+"itemHeight": 74
+}
+</convert>
+</widget>
+    <widget name="ButtonRedtext" position="210,1020" zPosition="10" size="230,45" font="Rale;36" transparent="1" foregroundColor="#cc0000" />
+    <widget name="ButtonGreentext" position="430,1020" zPosition="10" size="300,45" font="Rale;36" transparent="1" foregroundColor="#7fff00" />
+
+    <widget source="global.CurrentTime" render="Label" position="435,60" size="500,35" foregroundColor="#ffffff" transparent="1" zPosition="1" font="Rale;33" halign="left">
+      <convert type="ClockToText">Format:%A, %d.%m.%Y</convert>
+    </widget>
+    <widget source="global.CurrentTime" render="Label" position="700,60" size="300,35" foregroundColor="#ffffff" transparent="1" zPosition="1" font="Rale;33" halign="right">
+      <convert type="ClockToText">Format:%-H:%M:%S</convert>
+    </widget>
+</screen>

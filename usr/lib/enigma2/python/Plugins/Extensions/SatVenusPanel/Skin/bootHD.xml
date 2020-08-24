@@ -1,0 +1,3 @@
+	<screen name="Menu" position="center,center" size="740,460" flags="wfNoBorder">
+	<ePixmap position="0,0" size="740,460" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/logohd.png" />
+	</screen>

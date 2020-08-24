@@ -1,0 +1,42 @@
+	<screen name="Menu" position="center,center" size="1280,720" flags="wfNoBorder"  backgroundColor="#40000000">	
+    <ePixmap position="0,0" size="1280,720" pixmap="/usr/lib/enigma2/python/Plugins/Extensions/SatVenusPanel/pics/hrbet2.png" alphatest="blend" transparent="1" />	
+
+
+	<widget name="ButtonRedtext" position="110,680" zPosition="10" size="160,45" font="Rale;28" transparent="1" foregroundColor="#cc0000" />
+	<widget name="ButtonGreentext" position="260,680" zPosition="10" size="240,45" font="Rale;28" transparent="1" foregroundColor="#7fff00" />
+	
+	<widget source="menu" render="Listbox" position="130,105" size="498,200" backgroundColorSelected="#40000000" foregroundColor="#faf0be" foregroundColorSelected="#7fff00" zPosition="3" transparent="1" scrollbarMode="showNever">
+
+	<convert type="TemplatedMultiContent">
+	{"template": [
+	MultiContentEntryText(pos = (10, 10), size = (770, 40), flags = RT_HALIGN_LEFT, text = 1),
+	],
+	"fonts": [gFont("Rale", 28)],
+	"itemHeight": 40
+	}
+	</convert>
+	</widget>
+	<widget source="menu" render="Listbox" position="130,300" size="498,150" zPosition="4" scrollbarMode="showNever" selectionDisabled="1" transparent="1">
+	<convert type="TemplatedMultiContent">
+	{"template": [
+	MultiContentEntryText(pos = (10, 0), size = (770, 150), flags = RT_HALIGN_CENTER|RT_VALIGN_TOP|RT_WRAP, text = 2),
+	],
+	"fonts": [gFont("Rale", 22)],
+	"itemHeight": 150
+	}
+	</convert>
+	</widget>
+	<widget source="downloadtext" render="Label" position="130,600" size="560,50" valign="left" halign="left" font="Rale;23" transparent="1" zPosition="3" foregroundColor="#faf0be" />
+	<widget source="targettext" render="Label" position="130,430" size="450,30" valign="top" halign="left" font="Rale;24" transparent="1" zPosition="3" foregroundColor="#00ff00" />
+	<widget name="target" position="130,464" size="420,30" valign="top" halign="left" font="Rale;23" transparent="1" zPosition="4" />
+    <eLabel text="NOTICE:  " position="130,500" size="150,35" noWrap="1" transparent="1" font="Cap2;28" foregroundColor="#cc0000" />		
+    <eLabel text="First choose download location !" position="130,530" size="498,30" noWrap="1" transparent="1" font="Rale;24" foregroundColor="white" />
+    <eLabel text="USB or HDD !" position="130,565" size="498,30" noWrap="1" transparent="1" font="Rale;24" foregroundColor="white" />	
+		
+    <widget source="global.CurrentTime" render="Label" position="295,35" size="250,35" foregroundColor="#ffffff" transparent="1" zPosition="1" font="Rale;23" halign="left">
+      <convert type="ClockToText">Format:%A, %d.%m.%Y</convert>
+    </widget>
+    <widget source="global.CurrentTime" render="Label" position="500,35" size="150,35" foregroundColor="#ffffff" transparent="1" zPosition="1" font="Rale;23" halign="right">
+      <convert type="ClockToText">Format:%-H:%M:%S</convert>
+    </widget>
+</screen>	
