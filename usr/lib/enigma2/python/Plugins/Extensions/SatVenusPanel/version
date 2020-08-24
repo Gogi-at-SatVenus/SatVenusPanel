@@ -1,0 +1,4 @@
+version:7.3.2
+kernel:oe2.0
+package:full
+build:22102019
