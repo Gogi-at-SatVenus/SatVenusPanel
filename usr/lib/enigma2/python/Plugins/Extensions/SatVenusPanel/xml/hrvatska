@@ -1,0 +1,182 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!--List of radio stations -->
+<xml>
+    <hrvatska> 
+  
+        <station name = "Nova Gradiška">
+            <url>http://69.175.94.98:8096/;stream/1</url>
+        </station>
+       <station name = "Prvi Radio">
+            <url>http://live.prviradio.hr:8000/prviradiohr</url>
+        </station>
+		<station name = "Radio Max">
+            <url>http://winweb1.novi-net.net:8010</url>
+        </station>
+		<station name = "Hrvatski Radio - Prvi program">
+            <url>http://213.5.57.150:8000</url>
+        </station>
+		<station name = "Hrvatski Radio - Drugi program">
+            <url>http://213.5.57.150:8002</url>
+        </station>
+		<station name = "Radio Sljeme">
+            <url>http://213.5.57.150:8004</url>
+        </station>
+		<station name = "Narodni radio">
+            <url>http://s7.iqstreaming.com:9498</url>
+        </station>
+		<station name = "Antena Zagreb">
+            <url>http://173.192.137.34:8044</url>
+        </station>
+		<station name = "Radio 808">
+            <url>http://test.radio808.info:8003</url>
+		</station>
+		<station name = "Radio Banovina Croatia">
+            <url>http://stream1.radio-banovina.hr:8005</url>
+		</station>
+		<station name = "Enter Zagreb">
+            <url>http://173.192.137.34:8042</url>
+		</station>	
+		<station name = "Radio Stubica">
+            <url>http://c2.hostingcentar.com:7006</url>
+		</station>	
+		<station name = "Radio Plus Osijek">
+            <url>http://173.192.137.34:8002</url>
+		</station>	
+		<station name = "Radio Zadar">
+            <url>http://streaming.zadar.net:8000/radio057</url>
+		</station>	
+		<station name = "Radio Ritam">
+            <url>http://85.25.124.177:9402</url>
+		</station>	
+		<station name = "Radio Slatina">
+            <url>http://88.198.53.74:9998</url>
+		</station>
+		<station name = "Radio Samobor">
+            <url>http://85.94.70.42:8000</url>
+		</station>
+		<station name = "Radio Dunav">
+            <url>http://cp1.shoutcheap.com:8111</url>
+		</station>
+		<station name = "Radio Maestral">
+            <url>http://stream.radio-maestral.hr:8003/</url>
+		</station>
+		<station name = "Radio Eurostar">
+            <url>http://www.radioeurostar.hr:8030/</url>
+		</station>
+		<station name = "CroLive">
+            <url>http://pa-hosting.de:23575</url>
+		</station>
+		<station name = "Radio Dalmacija">
+            <url>http://shoutcast.pondi.hr:8000</url>
+		</station>
+		<station name = "Radio Daruvar">
+            <url>http://pa-hosting.de:23637</url>
+		</station>
+		<station name = "Radio GK">
+            <url>http://88.198.9.11:9500</url>
+		</station>
+		<station name = "Solarevina">
+            <url>http://streamplus8.leonex.de:15436</url>
+		</station>
+		<station name = "Totalni FM">
+            <url>http://s7.iqstreaming.com:8024</url>
+		</station>
+		<station name = "Zupanijski Radio Virovitica">
+            <url>http://pa-hosting.de:23619</url>
+		</station>
+	    <station name = "Folky Ton">
+            <url>http://85.25.135.86:8034</url>
+		</station>
+        <station name = "Studi Bisernica">
+            <url>http://173.192.137.34:8100/</url>
+		</station>
+                <station name = "Radio KAJ">
+            <url>http://144.76.172.23:7051/</url>
+		</station>
+                <station name = "Radio Krizevci">
+            <url>http://144.76.172.23:7051/</url>
+		</station>
+                <station name = "Radio Drava">
+            <url>http://85.10.201.72:1052/</url>
+		</station>
+                <station name = "Radio Koprivnica">
+            <url>http://85.10.201.72:1060/</url>
+		</station>
+                <station name = "Amadeus">
+            <url>http://amadeus.streamwarp.com:8010</url>
+		</station>
+                <station name = "Uvijek i svugdje Radio">
+            <url>http://sc8.mystreamserver.com:8120/</url>
+		</station>
+                <station name = "DJ Boranija">
+            <url>http://192.81.248.192:8096/</url>
+		</station>
+                <station name = "Radio Zlatar">
+            <url>http://144.76.172.23:7059/</url>
+		</station>
+                <station name = "Radio Zelina">
+            <url>http://209.105.250.73:8670/</url>
+		</station>
+            <station name = "Radio Martin">
+              <url>http://genf196.server4you.de:8585/</url>
+            </station> 
+            <station name = "Radio Korzo">
+              <url>http://212.92.194.188:8000/</url>
+            </station>
+            <station name = "KLFM">
+              <url>http://klfm.streamradio.com.hr:5000/</url>
+            </station>  
+            <station name = "Club Music Radio">
+              <url>http://cmr-hosting.com:8010/</url>
+            </station>    	
+	<station name = "Radio Maria">
+              <url>http://50.7.181.186:8026/</url>
+            </station>    	
+	<station name = "Radio Valpovtina">
+              <url>http://144.76.172.23:7092/</url>
+            </station>    	
+	<station name = "Hrvatski Radio - Treci program">
+              <url>http://213.5.57.150:8006/</url>
+            </station>    	
+	<station name = "Radio 101 rock">
+              <url>http://live.radio101.hr:7005/</url>
+            </station>    
+            <station name = "Antena Zadar FM">
+              <url>http://178.218.162.122:9000/</url>
+            </station> 
+            <station name = "Antena Hits">
+              <url>http://173.192.137.34:8066/</url>
+            </station> 
+            <station name = "Radio 101 Zagreb">
+              <url>http://live.radio101.hr:7038/</url>
+            </station> 
+            <station name = "Antena Zagreb 90s">
+              <url>http://173.192.137.34:8064/</url>
+            </station> 
+            <station name = "Radio Baranja">
+              <url>http://46.28.53.198:7023/</url>
+            </station> 
+            <station name = "Radio Borovo">
+              <url>http://144.76.172.23:7020/</url>
+            </station> 	
+            <station name = "Soundset Brod">
+              <url>http://50.7.129.122:8529/</url>
+            </station> 
+            <station name = "Radio Drnis">
+              <url>http://212.92.219.12:5004/</url>
+            </station> 
+            <station name = "Hrvatski radio Otocac">
+              <url>http://46.28.53.198:7015/</url>
+            </station> 
+            <station name = "Radio Imotski">
+              <url>http://85.10.201.72:7028/</url>
+            </station> 
+            <station name = "Otvoreni Radio">
+              <url>http://87.98.250.149:8002/</url>
+            </station> 
+            <station name = "Soundset Plavi">
+              <url>http://50.7.77.114:8495/</url>
+            </station>  	
+     
+    </hrvatska>
+</xml>

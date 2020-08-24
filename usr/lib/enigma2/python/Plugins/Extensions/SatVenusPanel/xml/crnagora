@@ -1,0 +1,62 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!--List of radio stations -->
+<xml>
+    <crnagora>
+	          
+	<station name = "Radio F">
+            <url>http://fradio.fm:9010</url>
+        </station>	
+	<station name = "Adria Folk Radio">
+            <url>http://79.143.181.198:9996</url>
+        </station>	
+        <station name = "Radio Tivat">
+<url>http://95.211.166.127:8006/</url>
+</station>
+<station name = "Radio Skala">
+<url>http://mediadots.primcast.com:8176/</url>
+</station>
+<station name = "Jupok Radio Rozaje">
+<url>http://176.9.59.144:8062/</url>
+</station>
+<station name = "Radio Gusinje">
+<url>http://radio-gusinje.com:8100/</url>
+</station>
+<station name = "Radio DUX">
+<url>http://46.28.53.198:7074/</url>
+</station>
+<station name = "Radio Delfin">
+<url>http://46.4.76.142:2121/</url>
+</station>
+<station name = "Radio D Plus">
+<url>http://uk2-free.mixstream.net:30232/</url>
+</station>
+<station name = "Budva Summer Radio">
+<url>http://38.96.148.254:9176/</url>
+</station>
+<station name = "Radio Bruskin">
+<url>http://88.198.233.68:2035/</url>
+</station>
+<station name = "Star FM">
+<url>http://radio.starfm.me:9060/</url>
+</station>
+<station name = "Radio Renome">
+<url>http://198.154.106.116:9988/</url>
+</station>
+<station name = "Radio Kotor ">
+<url>http://144.76.174.181:2120/</url>
+</station>
+<station name = "Radio D">
+<url>http://uk14-free.mixstream.net:11356/</url>
+</station>
+<station name = "Radio Crne Gore">
+<url>http://radio.beotel.net:8008/</url>
+</station>
+<station name = "Radio Budva">
+<url>http://radiobudva.primcast.com:9434/</url>
+</station>
+<station name = "Radio Bijelo Polje">
+<url>http://144.76.174.181:2055/</url>
+</station>
+
+    </crnagora>
+</xml>

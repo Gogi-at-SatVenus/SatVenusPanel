@@ -1,0 +1,61 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!--List of radio stations -->
+<xml>
+    <rock>  
+        <station name = "ROCK RADIO - 101 Rock Beograd">
+            <url>http://87.118.84.56:9984</url>
+        </station>
+        <station name = "ROCK RADIO - 101 Rock HR">
+            <url>http://live.radio101.hr:7005</url>
+        </station>    
+        <station name = "ROCK RADIO - Classic Metal">
+            <url>http://pub5.rockradio.com:80/rr_classicmetal_aacplus?70bd075b82750c4ba252dab0</url>
+        </station> 
+        <station name = "ROCK RADIO - 90's Alternative">
+            <url>http://pub5.rockradio.com:80/rr_alternative80s_aacplus?70bd075b82750c4ba252dab0</url>
+        </station>
+        <station name = "ROCK RADIO - 80's Rock">
+            <url>http://pub5.rockradio.com:80/rr_80srock_aacplus?70bd075b82750c4ba252dab0</url>
+        </station>
+        <station name = "ROCK RADIO - 90's Rock">
+            <url>http://pub5.rockradio.com:80/rr_90srock_aacplus?70bd075b82750c4ba252dab0</url>
+        </station>
+        <station name = "ROCK RADIO - Black Metal">
+            <url>http://pub5.rockradio.com:80/rr_blackmetal_aacplus?70bd075b82750c4ba252dab0</url>
+        </station>
+        <station name = "ROCK RADIO - Blues Rock">
+            <url>http://pub5.rockradio.com:80/rr_bluesrock_aacplus?70bd075b82750c4ba252dab0</url>
+        </station>
+        <station name = "ROCK RADIO - Classic Hard Rock">
+            <url>http://pub5.rockradio.com:80/rr_classichardrock_aacplus?70bd075b82750c4ba252dab0</url>
+        </station>
+        <station name = "ROCK RADIO - Rock Ballads">
+            <url>http://pub5.rockradio.com:80/rr_rockballads_aacplus?70bd075b82750c4ba252dab0</url>
+        </station>
+        <station name = "ROCK RADIO - Punk Rock">
+            <url>http://pub5.rockradio.com:80/rr_punkrock_aacplus?70bd075b82750c4ba252dab0</url>
+        </station>
+        <station name = "ROCK RADIO - Metal">
+            <url>http://pub5.rockradio.com:80/rr_metal_aacplus?70bd075b82750c4ba252dab0</url>
+        </station>
+        <station name = "ROCK RADIO - Grunge">
+            <url>http://pub7.rockradio.com:80/rr_grunge_aacplus?70bd075b82750c4ba252dab0</url>
+        </station>  
+        <station name = "ROCK RADIO - 60's Rock">
+            <url>http://pub5.rockradio.com:80/rr_60srock_aacplus?70bd075b82750c4ba252dab0</url>
+        </station> 
+	    <station name = "ROCK RADIO - Death Metal">
+            <url>http://pub5.rockradio.com:80/rr_deathmetal_aacplus?70bd075b82750c4ba252dab0</url>
+        </station> 
+		<station name = "ROCK RADIO - Modern Rock">
+            <url>http://pub5.rockradio.com:80/rr_modernrock_aacplus?70bd075b82750c4ba252dab0</url>
+        </station> 
+		<station name = "ROCK RADIO - Pop Rock">
+            <url>http://pub5.rockradio.com:80/rr_poprock_aacplus?70bd075b82750c4ba252dab0</url>
+        </station> 
+		<station name = "ROCK RADIO - Soft Rock">
+            <url>http://pub5.rockradio.com:80/rr_softrock_aacplus?70bd075b82750c4ba252dab0</url>
+        </station> 	
+    </rock>
+</xml>
+

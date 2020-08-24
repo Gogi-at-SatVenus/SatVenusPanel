@@ -1,0 +1,76 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!--List of radio stations -->
+<xml>
+    <slovenija>          	    
+        <station name = "Center Ljubljana">
+            <url>http://212.18.63.51:8042</url>
+        </station>
+        <station name = "Ekspres Ljubljana">
+            <url>http://93.103.13.156:8000</url>
+        </station>
+        <station name = "Kaos Ljubljana">
+            <url>http://212.18.63.51:8042</url>
+        </station>
+        <station name = "Radio Center">
+            <url>http://212.18.63.51:8042</url>
+		</station>
+        <station name = "Radio Ekspres">
+            <url>http://93.103.13.156:8000</url>
+		</station>
+        <station name = "Radio Celje">
+            <url>http://89.142.196.111:9030</url>
+		</station>
+        <station name = "Radio Maxi">
+            <url>http://46.150.34.194:8010</url>
+		</station>
+         <station name = "Radio Krka">
+            <url>http://93.103.12.127:8000</url>
+		</station> 
+         <station name = "Radio Ptuj">
+            <url>http://stream.radio-ptuj.si:8000</url>
+		</station> 
+         <station name = "Koroski radio Slovenj Gradec">
+            <url>http://shoutcast.netsi.net:8300</url>
+		</station>
+        <station name = "Strozak">
+            <url>http://stream.strozak.org:8006</url>
+		</station>                                                     
+         <station name = "Radio Salomon">
+            <url>http://195.95.158.131:8050</url>
+		</station> 
+         <station name = "Radio Veseljak">
+            <url>http://195.95.158.131:9060</url>
+		</station>
+          <station name = "NetFM">
+            <url>http://spletniradio.si-shell.net:8010</url>
+		</station>
+                <station name = "Radio Student">
+            <url>http://kruljo.Radiostudent.si:8000/loq</url>
+        </station>
+		<station name = "Radio S">
+            <url>http://live3.infonetmedia.si:8000</url>
+        </station>
+		<station name = "Radio Aktual">
+            <url>http://195.95.158.131:9040/</url>
+        </station>
+		<station name = "Radio Capris">
+            <url>http://stream01.exit.si:8000/</url>
+        </station>
+		<station name = "Radio Dioniz">
+            <url>http://212.129.48.95:8122/</url>
+        </station>
+		<station name = "Radio Antena Stajerska">
+            <url>http://shoutcast.netsi.net:8250/</url>
+        </station>
+		<station name = "Radio Mars">
+            <url>http://frekvenca.eu:8000/</url>
+        </station>
+		<station name = "Radio Triglav">
+            <url>http://www.Radiotriglav.si:8000/</url>
+        </station> 
+	<station name = "Stajerski val">
+            <url>http://91.185.200.15:8004/</url>
+        </station>                                                                           	
+    </slovenija>
+</xml>
+

@@ -1,0 +1,101 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!--List of radio stations -->
+<xml>
+    <bosna>  
+  
+    <station name = "Radio Bijeljina">
+            <url>http://5.135.114.234:9996</url>
+        </station>
+    <station name = "Alfa Balkan Central Sarajevo">
+            <url>http://cmr-hosting.com:8310</url>
+        </station>
+        <station name = "Antena Sarajevo">
+            <url>http://195.222.57.33:8070</url>
+        </station>
+        <station name = "Best Radio Sipovo">
+            <url>http://sc4.streamingpulse.net:8043</url>
+        </station>
+        <station name = "Balkan DJ Radio Sarajevo">
+            <url>http://balkan.dj.topstream.net:8070</url>
+        </station>
+        <station name = "Radio Ljubavi Odzak ">
+            <url>http://192.95.17.109:9900</url>
+        </station>
+        <station name = "Radio Jablanica">
+            <url>http://radio.exyu.info:8888</url>
+        </station>
+        <station name = "Balkan Hip Hop radio">
+            <url>http://88.198.233.68:2022/</url>
+        </station>
+		<station name = "Radio Lukavac">
+            <url>http://195.222.33.217:8022/</url>
+        </station>
+		<station name = "Alpha One Balkan">
+            <url>http://cmr-hosting.com:8325/</url>
+        </station>
+	<station name = "Das Radio">
+            <url>http://www.servis-racunara.org:1231/</url>
+        </station>
+		<station name = "Radio">
+            <url>http://46.165.195.133:8072/</url>
+        </station>
+		<station name = "Radio Dobre Vibracije">
+            <url>http://108.178.13.122:8034/</url>
+        </station>
+		<station name = "Drukciji Radio">
+            <url>http://91.241.53.11:8001/</url>
+        </station>
+		<station name = "Free Radio Prijedor">
+            <url>http://radio.redonic.com:9988/</url>
+        </station>
+		<station name = "Radio Gradacac">
+            <url>http://80.241.218.131:19584/</url>
+        </station>
+		<station name = "Radio Grmljavina">
+            <url>http://144.76.174.181:2052/</url>
+        </station>
+		<station name = "Radio Igokea">
+            <url>http://radio.redonic.com:8877/</url>
+        </station>
+		<station name = "Radio Kiss">
+            <url>http://178.209.2.100:7050/</url>
+        </station>
+		<station name = "Radio Bambi">
+            <url>http://144.76.31.29:8555/</url>
+        </station>
+		<station name = "Radio Bet">
+            <url>http://195.154.136.194:9968/</url>
+        </station>
+		<station name = "Bm Radio 1">
+            <url>http://195.222.33.217:8070/</url>
+        </station>
+		<station name = "Dj Verica 80">
+            <url>http://78.46.64.6:8040/</url>
+        </station>
+		<station name = "Radio Caffe075">
+            <url>http://144.76.172.23:7041/</url>
+        </station>
+		<station name = "Radio Gradiska">
+            <url>http://204.45.126.170:8099/</url>
+        </station>
+		<station name = "Radio Grude">
+            <url>http://pa-hosting.de:8012/</url>
+        </station>
+		<station name = "Radio Herceg-Bosne">
+            <url>http://178.209.2.100:7060/</url>
+        </station>
+		<station name = "Radio Kakanj">
+            <url>http://87.117.253.38:9978/</url>
+        </station>
+		<station name = "Radio Kameleon">
+            <url>http://78.47.39.139:8100/</url>
+        </station>
+		<station name = "Radio Kladanj">
+            <url>http://176.9.59.144:8042/</url>
+        </station>
+		<station name = "Radio Koktel">
+            <url>http://87.117.253.38:9986/</url>
+        </station>       
+	
+    </bosna>
+</xml>

@@ -1,0 +1,139 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!--List of radio stations -->
+<xml>
+    <inter> 
+
+        <station name = "Dance One Radio">
+            <url>http://205.164.62.13:3695</url>
+        </station>
+        <station name = "PulsRadio">
+            <url>http://213.251.190.165/</url>
+        </station>
+        <station name = "New Dance Radio">
+            <url>http://jbstream.net:8074/</url>
+        </station>
+        <station name = "Energy 98 - Dance Hits">
+            <url>http://108.61.73.117:8770/</url>
+        </station>
+        <station name = "mika.fm - fresh Beats for YOU">
+            <url>http://stream1-1.mika.fm/</url>
+        </station>
+        <station name = "99Live ..:">
+            <url>http://46.163.117.44:9000/</url>
+        </station>
+        <station name = "ThreeTen Radio Hits of the 70s 80s and 90s">
+            <url>http://threetenradio.com:8041/</url>
+        </station>
+        <station name = "HotMix Radio">
+            <url>http://streamingads.hotmixradio.fm/hotmixradio-lounge-128.mp3</url>
+        </station>
+        <station name = "100">
+            <url>http://mp3.live.tv-radio.com/centpourcent/all/centpourcent-128k.mp3</url>
+        </station>
+                <station name = "Hitz24">
+<url>http://176.56.233.51:8033/</url>
+</station>
+<station name = "Ballermann">
+<url>http://80.237.159.25:8100/</url>
+</station>
+<station name = "RMNradio">
+<url>http://212.48.110.70:8022/</url>
+</station>
+<station name = "DEFJAY.COM">
+<url>http://212.45.104.34:8000/</url>
+</station>
+<station name = "ThreeTen Radio">
+<url>http://threetenradio.com:8041/</url>
+</station>
+<station name = "90s CHARTBUSTERS...">
+<url>http://usa2.fastcast4u.com:3406/</url>
+</station>
+<station name = "InTheMixRadio">
+<url>http://s1.inthemixradio.de:9200/</url>
+</station>
+<station name = "HARD ROCK HEAVEN">
+<url>http://67.213.213.143:8048/</url>
+</station>
+<station name = "RADIO ORO MARBELLA EN DIRECTO">
+<url>http://92.48.107.35:8004/</url>
+</station>
+<station name = "M2 LOVE">
+<url>http://46.105.36.202:9050/</url>
+</station>
+<station name = "Radio RTS 80s 90s TODAY">
+<url>http://216.119.144.221:8008/</url>
+</station>
+<station name = "1.FM">
+<url>http://205.164.35.53:80/</url>
+</station>
+<station name = "M2 90">
+<url>http://46.105.36.202:8090/</url>
+</station>
+<station name = "RADIO TOP 80">
+<url>http://109.71.41.250:8086/</url>
+</station>
+<station name = "kiss fm">
+<url>http://67.228.150.184:6540/</url>
+</station>
+<station name = "Oldiefans.net">
+<url>http://176.9.112.207:8000/</url>
+</station>
+<station name = "Nashville Rock">
+<url>http://ice.stream101.com:6025/</url>
+</station>
+<station name = "Atlantic Sound Factory">
+<url>http://208.85.240.83:80/</url>
+</station>
+<station name = "FamousFM">
+<url>http://85.214.247.94:8000/</url>
+</station>
+<station name = "GlobalBeats FM">
+<url>http://gbs01.de:7220/</url>
+</station>
+<station name = "Radio UZIC">
+<url>http://stream.uzic.ch:9010/</url>
+</station>
+<station name = "DANCE ONE RADIO">
+<url>http://205.164.62.13:3695/</url>
+</station>
+<station name = "ENERGIA URBANA RADIO">
+<url>http://188.95.253.110:9942/</url>
+</station>
+<station name = "Hits-Forever">
+<url>http://87.106.59.72:1603/</url>
+</station>
+<station name = "Radio EnergyFM Albania">
+<url>http://188.40.32.140:8260/stream</url>
+</station>
+<station name = "hearttime-radio.com">
+<url>http://hearttime-radio.de:8000/</url>
+</station>
+<station name = "Swinging Radio England">
+<url>http://s3.radioboss.fm:8006/stream</url>
+</station>
+<station name = "Radio Monique Gold 963">
+<url>http://94.75.235.38:8313/</url>
+</station>
+<station name = "Radio Caroline 259 Gold">
+<url>http://94.75.235.38:8259/</url>
+</station>
+<station name = "laut.fm">
+<url>http://stream.laut.fm:80</url>
+</station>
+<station name = "CINEMIX">
+<url>http://94.23.51.96:8000/</url>
+</station>
+<station name = "Public Domain Classical">
+<url>http://82.197.165.137:80/</url>
+</station>
+<station name = "Venice Classic Radio Italia">
+<url>http://109.123.116.202:8010/</url>
+</station>
+<station name = "Radio Aspekt Classic">
+<url>http://37.59.8.151:8056/</url>
+</station>
+<station name = "Radio 100FM">
+<url>http://onair.100fmlive.dk:80/100fm_live.mp3</url>
+</station>              
+    </inter>
+</xml>

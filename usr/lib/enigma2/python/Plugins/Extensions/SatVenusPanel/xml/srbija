@@ -1,0 +1,165 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!--List of radio stations -->
+<xml>
+    <srbija>
+
+        <station name = "RTS Radio Beograd 1">
+            <url>http://rts.ipradio.rs:8002</url>
+        </station>	
+       <station name = "RTS Radio Beograd 2">
+            <url>http://rts.ipradio.rs:8004</url>
+        </station>	
+	<station name = "Radio Beograd 202">
+            <url>http://rts.ipradio.rs:8006</url>
+        </station>	
+        <station name = "Radio B92">
+            <url>http://stream.b92.net:7999/radio-b92.mp3</url>
+        </station>	
+      <station name = "Radio Studio B">
+            <url>http://radio.studiob.rs:8004</url>
+        </station>        
+        <station name = "Radio Naxi">
+            <url>http://naxi64.streaming.rs:9160</url>
+        </station>	
+        <station name = "Naxi 80-e Radio">
+            <url>http://naxidigital48.kbcnet.rs:8040</url>
+        </station>	
+	<station name = "Naxi Evergreen Radio">
+            <url>http://naxidigital48.kbcnet.rs:8010</url>
+        </station>	
+	<station name = "Naxi Cafe Radio">
+            <url>http://naxidigital48.kbcnet.rs:8020</url>
+        </station>	
+	<station name = "Naxi House Radio">
+            <url>http://naxidigital48.kbcnet.rs:8000</url>
+        </station>	
+	<station name = "Usce Shoping Radio">
+            <url>http://109.206.96.18:8000</url>
+        </station>        
+	<station name = "Energy Radio Belgrade">
+            <url>http://www.energyradio.rs:7799</url>
+        </station>		
+	<station name = "Radio Latinica">
+            <url>http://208.87.25.4:8002</url>
+        </station>        	
+	<station name = "TDI Radio">
+            <url>http://streaming.tdiradio.com:9090</url>
+        </station> 	
+	<station name = "TDI Radio Domacica">
+            <url>http://streaming.tdiradio.com:9555</url>
+        </station>	
+	<station name = "TDI Radio - Classic 80-90`s">
+            <url>http://streaming.tdiradio.com:9111</url>
+        </station>	
+	<station name = "TDI Radio - House Only">
+            <url>http://streaming.tdiradio.com:9222</url>
+        </station>         
+        <station name = "TDI Radio - Trance">
+            <url>http://streaming.tdiradio.com:9777</url>
+        </station>         	
+	<station name = "Radio Jat">
+            <url>http://streaming.radiojat.rs:12111</url>
+        </station>  	              	
+	<station name = "Radio AS FM">
+            <url>http://109.206.96.95:8020</url>
+        </station>         
+	<station name = "Kragujevac Plaza Radio ">
+            <url>http://109.206.96.18:8020</url>
+        </station>	
+	<station name = "LUX Radio">
+            <url>http://stream.konekt.rs:9102</url>
+        </station> 	
+	<station name = "Radio Antena">
+            <url>http://antenaradio.org:4560</url>
+        </station> 
+        <station name = "Bum Radio">
+            <url>http://217.24.17.31:8102/</url>
+        </station> 
+        <station name = "Radio Bubamaru Svrljig">
+            <url>http://shoutcast.netsi.net:8400/</url>
+        </station> 
+        <station name = "Radio Ada">
+            <url>http://46.4.141.158:9010/</url>
+        </station> 
+        <station name = "Radio Zvizd Kueevo">
+            <url>http://213.239.205.210:8008/</url>
+        </station> 
+        <station name = "Radio Novi Sad">
+            <url>http://82.117.194.13:9020/</url>
+        </station> 
+        <station name = "Radio Novi Sad - Program na madjarskom jeziku">
+            <url>http://82.117.194.13:9010/</url>
+        </station> 
+        <station name = "Radio Buca">
+            <url>http://live.bucaradio.com:8080/</url>
+        </station> 
+         <station name = "Narodni FM">
+            <url>http://195.252.68.166:8036/</url>
+        </station> 
+        <station name = "Radio 012">
+            <url>http://cp.striming.info:9240/</url>
+        </station>
+        <station name = "Radio 019 - Negotin">
+            <url>http://213.239.205.210:8030/</url>
+        </station>
+        <station name = "WHMSonic AutoDJ">
+            <url>http://87.118.84.56:9982/</url>
+        </station>
+        <station name = "Radio 101 Folk">
+            <url>http://87.118.84.56:9988/</url>
+        </station>
+        <station name = "Radio AMI">
+            <url>http://192.240.102.195:9031/</url>
+        </station>
+        <station name = "Radio Antena 2">
+            <url>http://www.antenabor.rs:8018/</url>
+        </station>
+        <station name = "Radio AS">
+            <url>http://176.9.59.144:8064/</url>
+        </station>
+        <station name = "BalkanAutodj">
+            <url>http://212.83.161.167:8000/</url>
+        </station>
+        <station name = "Boom 93">
+            <url>http://85.202.112.1:8002/</url>
+        </station>
+        <station name = "Civijas Radio Studio">
+            <url>http://87.118.84.56:8000/</url>
+        </station>
+        <station name = "Cool Radio">
+            <url>http://176.9.30.66/</url>
+        </station>
+        <station name = "Radio Crvena zvezda">
+            <url>http://naxidigital48.kbcnet.rs:8060/</url>
+        </station>
+         <station name = "Radio D- Plus">
+            <url>http://178.79.25.9:8014/</url>
+        </station>
+         <station name = "Deluxe Radio Beograd">
+            <url>http://85.25.119.116:8408/</url>
+        </station>
+         <station name = "Radio Dobric">
+            <url>http://176.9.73.16:9976/</url>
+        </station>
+         <station name = "Em Radio">
+            <url>http://92.60.230.200:5090/</url>
+        </station>
+         <station name = "Fan Radio Bajina Basta">
+            <url>http://stream.fanradio.info:8000/</url>
+        </station>
+         <station name = "FMK Radio">
+            <url>http://fmk.streaming.rs:9370/</url>
+        </station>
+         <station name = "Radio 96">
+            <url>http://176.9.59.144:8058/</url>
+        </station>
+         <station name = "Balkan Plus Radio">
+            <url>http://176.31.239.83:9103/</url>
+        </station>
+         <station name = "B-ton radio">
+            <url>http://radio.orion.rs:10100/</url>
+        </station>
+                        
+    </srbija>
+</xml>
+
